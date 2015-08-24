@@ -1,0 +1,5 @@
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\DaoGestionMagasins\bin\Debug\DaoGestionMagasins.dll
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\DaoGestionMagasins\bin\Debug\DaoGestionMagasins.pdb
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\DaoGestionMagasins\obj\Debug\DaoGestionMagasins.dll
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\DaoGestionMagasins\obj\Debug\DaoGestionMagasins.pdb
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\DaoGestionMagasins\obj\Debug\DaoGestionMagasins.csprojResolveAssemblyReference.cache

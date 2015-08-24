@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfGestionMagasinFrontOffice.BackOfficeScreen.ListeProduit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}"
+        Title="Liste de Produit" Height="340" Width="648" Background="Ivory">
+    <Grid>
+        <ListView Height="194" Margin="0,54,0,0" Name="produitListView" VerticalAlignment="Top" ItemsSource="{Binding ProduitCollection}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="150" Header="Nom" DisplayMemberBinding="{Binding Nom}"/>
+                    <GridViewColumn Width="180" Header="Description" DisplayMemberBinding="{Binding Description}"/>
+                    <GridViewColumn Width="140" Header="Reference" DisplayMemberBinding="{Binding Reference}" />
+                    <GridViewColumn Width="50" Header="Prix" DisplayMemberBinding="{Binding Prix}" />
+                    <GridViewColumn Width="60" Header="Stock" DisplayMemberBinding="{Binding Stock}" />
+                </GridView>
+            </ListView.View>
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <EventSetter Event="PreviewMouseLeftButtonDown" Handler="onClickItem" />
+                </Style>
+            </ListView.ItemContainerStyle>
+        </ListView>
+        <Button Content="Ajouter" Height="23" HorizontalAlignment="Left" BorderThickness="0" FontSize="14" Foreground="Gray" Background="White" Margin="48,266,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="Ajouter" />
+        <Button Content="Modifier" Height="23" HorizontalAlignment="Right" BorderThickness="0" FontSize="14" Foreground="Gray" Background="White" Margin="0,266,288,0" Name="button2" VerticalAlignment="Top" Width="75" Click="Modifier" />
+        <Button Content="Supprimer" Height="23" FontSize="14" Foreground="Gray" Background="White" BorderThickness="0" HorizontalAlignment="Right" Margin="0,266,57,0" Name="button3" VerticalAlignment="Top" Width="75" Click="Supprimer" />
+        <Button Content="Rafraichir" Height="23" HorizontalAlignment="Left" Margin="539,12,0,0" Name="rafraichir" VerticalAlignment="Top" Width="75" BorderThickness="0" FontSize="14" Foreground="Green" Background="White" Click="Rafraichir" />
+        <Button Content="←" Height="23" HorizontalAlignment="Left" Margin="12,12,0,0" Name="button4" VerticalAlignment="Top" BorderThickness="0" Background="LightGreen" Width="20" Click="button4_Click" />
+        <Label Content="Rechercher :" Height="28" HorizontalAlignment="Left" Margin="63,11,0,0" Name="label1" VerticalAlignment="Top" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="144,12,0,0" Name="rechercheBox" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="284,12,0,0" Name="searchBox" VerticalAlignment="Top" Width="120" />
+        <Button Content="Rechercher" Height="23" HorizontalAlignment="Left" Margin="433,12,0,0"
+                Name="button5" VerticalAlignment="Top" Width="75" Background="White"
+                BorderThickness="0" Foreground="Gray" Click="Rechercher" />
+    </Grid>
+</Window>

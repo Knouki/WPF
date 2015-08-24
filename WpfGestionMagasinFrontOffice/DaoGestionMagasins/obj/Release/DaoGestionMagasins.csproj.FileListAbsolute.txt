@@ -1,0 +1,5 @@
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\DaoGestionMagasins\bin\Release\DaoGestionMagasins.dll
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\DaoGestionMagasins\bin\Release\DaoGestionMagasins.pdb
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\DaoGestionMagasins\obj\Release\DaoGestionMagasins.dll
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\DaoGestionMagasins\obj\Release\DaoGestionMagasins.pdb
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\DaoGestionMagasins\bin\Release\DaoGestionMagasins.dll.config

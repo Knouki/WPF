@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfGestionMagasinFrontOffice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="340" Width="340" >
+    <Grid Background="Lavender">
+    <Label Content="Se connecter au service" Name="Titre" Margin="0,0,0,265" FontSize="18" HorizontalAlignment="Center" Foreground="Gray"/>
+        <Label Content="Identifiant" Height="28" HorizontalAlignment="Left" Margin="52,86,0,0" Name="label1" VerticalAlignment="Top" Foreground="DodgerBlue" />
+        <Label Content="Mot de passe" Height="28" HorizontalAlignment="Left" Margin="35,173,0,0" Name="label2" VerticalAlignment="Top" Foreground="DodgerBlue"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="137,90,0,0" Name="loginBox" VerticalAlignment="Top" Width="120" />
+        <PasswordBox Height="23" HorizontalAlignment="Left" Margin="137,178,0,0" Name="passwordBox" VerticalAlignment="Top" Width="120" />
+        <Button Content="Se connecter" Height="23" HorizontalAlignment="Left" Margin="121,240,0,0" Name="button1" VerticalAlignment="Top" Width="75" Foreground="Gray" Background="WhiteSmoke" BorderThickness="0" Click="login_Click" />
+    </Grid>
+</Window>

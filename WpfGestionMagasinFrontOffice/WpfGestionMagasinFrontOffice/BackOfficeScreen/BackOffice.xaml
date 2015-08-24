@@ -1,0 +1,11 @@
+﻿<Window x:Class="WpfGestionMagasinFrontOffice.BackOffice"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BackOffice" Height="163" Width="362" Background="Lavender">
+    <Grid>
+        <Button Content="Utilisateur" Height="23" HorizontalAlignment="Left" Margin="12,76,0,0" BorderThickness="0" Background="WhiteSmoke" Foreground="BlueViolet" Name="utilisateurButton" VerticalAlignment="Top" Width="75" Click="buttonClick" />
+        <Button Content="Produit" Height="23" HorizontalAlignment="Left" Margin="133,76,0,0" BorderThickness="0" Background="WhiteSmoke" Foreground="BlueViolet" Name="produitButton" VerticalAlignment="Top" Width="75" Click="buttonClick" />
+        <Button Content="Commande" Height="23" HorizontalAlignment="Left" Margin="253,76,0,0" BorderThickness="0" Background="WhiteSmoke" Foreground="BlueViolet" Name="commandeButton" VerticalAlignment="Top" Width="75" Click="buttonClick" />
+        <Label Content="Sélectionner donnée à modifier :" Height="41" Foreground="BlueViolet" FontSize="20" Margin="20,0" Name="label1" VerticalAlignment="Top" />
+    </Grid>
+</Window>

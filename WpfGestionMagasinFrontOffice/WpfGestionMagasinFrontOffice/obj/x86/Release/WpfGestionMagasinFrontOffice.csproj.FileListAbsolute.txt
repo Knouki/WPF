@@ -1,0 +1,42 @@
+C:\Users\utilisateur\AppData\Local\Temporary Projects\WpfGestionMagasinFrontOffice\bin\Release\WpfGestionMagasinFrontOffice.exe
+C:\Users\utilisateur\AppData\Local\Temporary Projects\WpfGestionMagasinFrontOffice\bin\Release\WpfGestionMagasinFrontOffice.pdb
+C:\Users\utilisateur\AppData\Local\Temporary Projects\WpfGestionMagasinFrontOffice\obj\x86\Release\MainWindow.baml
+C:\Users\utilisateur\AppData\Local\Temporary Projects\WpfGestionMagasinFrontOffice\obj\x86\Release\MainWindow.g.cs
+C:\Users\utilisateur\AppData\Local\Temporary Projects\WpfGestionMagasinFrontOffice\obj\x86\Release\App.g.cs
+C:\Users\utilisateur\AppData\Local\Temporary Projects\WpfGestionMagasinFrontOffice\obj\x86\Release\WpfGestionMagasinFrontOffice_MarkupCompile.cache
+C:\Users\utilisateur\AppData\Local\Temporary Projects\WpfGestionMagasinFrontOffice\obj\x86\Release\WpfGestionMagasinFrontOffice.g.resources
+C:\Users\utilisateur\AppData\Local\Temporary Projects\WpfGestionMagasinFrontOffice\obj\x86\Release\WpfGestionMagasinFrontOffice.Properties.Resources.resources
+C:\Users\utilisateur\AppData\Local\Temporary Projects\WpfGestionMagasinFrontOffice\obj\x86\Release\WpfGestionMagasinFrontOffice.csproj.GenerateResource.Cache
+C:\Users\utilisateur\AppData\Local\Temporary Projects\WpfGestionMagasinFrontOffice\obj\x86\Release\WpfGestionMagasinFrontOffice.exe
+C:\Users\utilisateur\AppData\Local\Temporary Projects\WpfGestionMagasinFrontOffice\obj\x86\Release\WpfGestionMagasinFrontOffice.pdb
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\WpfGestionMagasinFrontOffice.exe
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\WpfGestionMagasinFrontOffice.pdb
+d:\Users\utilisateur\Documents\Visual Studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\MainWindow.baml
+d:\Users\utilisateur\Documents\Visual Studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\MainWindow.g.cs
+d:\Users\utilisateur\Documents\Visual Studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\App.g.cs
+d:\Users\utilisateur\Documents\Visual Studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\WpfGestionMagasinFrontOffice_MarkupCompile.cache
+d:\Users\utilisateur\Documents\Visual Studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\WpfGestionMagasinFrontOffice.g.resources
+d:\Users\utilisateur\Documents\Visual Studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\WpfGestionMagasinFrontOffice.Properties.Resources.resources
+d:\Users\utilisateur\Documents\Visual Studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\WpfGestionMagasinFrontOffice.csproj.GenerateResource.Cache
+d:\Users\utilisateur\Documents\Visual Studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\bin\Release\WpfGestionMagasinFrontOffice.exe
+d:\Users\utilisateur\Documents\Visual Studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\bin\Release\WpfGestionMagasinFrontOffice.pdb
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\WpfGestionMagasinFrontOffice.csprojResolveAssemblyReference.cache
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\bin\Release\DaoGestionMagasins.dll
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\bin\Release\DaoGestionMagasins.pdb
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\BackOfficeScreen\BackOffice.baml
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\ChoixOffice.baml
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\FrontOfficeScreen\FrontOffice.baml
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\BackOfficeScreen\BackOffice.g.cs
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\ChoixOffice.g.cs
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\FrontOfficeScreen\FrontOffice.g.cs
+d:\Users\utilisateur\Documents\Visual Studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\bin\Release\WpfGestionMagasinFrontOffice.exe.config
+d:\Users\utilisateur\Documents\Visual Studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\BackOfficeScreen\CreateUser.baml
+d:\Users\utilisateur\Documents\Visual Studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\BackOfficeScreen\CreateUser.g.cs
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\BackOfficeScreen\ListUsers.baml
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\BackOfficeScreen\ListUsers.g.cs
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\BackOfficeScreen\CommandeListScreen.baml
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\BackOfficeScreen\ListeProduit.baml
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\BackOfficeScreen\CommandeListScreen.g.cs
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\BackOfficeScreen\ListeProduit.g.cs
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\BackOfficeScreen\CreateProduit.baml
+d:\users\utilisateur\documents\visual studio 2010\Projects\WpfGestionMagasinFrontOffice\WpfGestionMagasinFrontOffice\obj\x86\Release\BackOfficeScreen\CreateProduit.g.cs

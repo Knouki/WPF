@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfGestionMagasinFrontOffice.BackOfficeScreen.CreateUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Créer un utilisateur" Height="298" Width="529" Background="Honeydew">
+    <Grid>
+        <Label Content="Identifiant" Height="28" HorizontalAlignment="Left" Margin="44,60,0,0" Foreground="DarkOrchid" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Mot de Passe" Height="28" HorizontalAlignment="Left" Margin="283,59,0,0" Foreground="DarkOrchid" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Prénom" Height="28" HorizontalAlignment="Left" Margin="44,112,0,0" Foreground="DarkOrchid" Name="label3" VerticalAlignment="Top" />
+        <Label Content="Nom" Height="28" HorizontalAlignment="Left" Margin="283,112,0,0" Foreground="DarkOrchid" Name="label4" VerticalAlignment="Top" />
+        <Label Content="Role" Height="28" HorizontalAlignment="Left" Margin="44,165,0,0" Foreground="DarkOrchid" Name="label5" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="114,60,0,0" Name="identifiantBox" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,60,12,0" Name="passwordBox" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="114,112,0,0" Name="prenomBox" VerticalAlignment="Top" Width="120" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="375,112,0,0" Name="nomBox" VerticalAlignment="Top" Width="120" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="114,170,0,0" Name="roleCombobox" VerticalAlignment="Top" Width="120" />
+        <Button Content="Valider" Height="40" BorderThickness="0" FontSize="14" Foreground="Gray" Background="White" HorizontalAlignment="Left" Margin="318,199,0,0" Name="button1" VerticalAlignment="Top" Width="100" Click="Valider" />
+        <Label Content="Créer Utilisateur" Height="28" HorizontalAlignment="Left" Foreground="DarkBlue" FontSize="15" FontWeight="DemiBold"
+               Margin="44,12,0,0" Name="titleLabel" VerticalAlignment="Top" Width="200" />
+    </Grid>
+</Window>
